@@ -1629,3 +1629,15 @@ footer p {
 .blog-details-post-wrapper .post-comment form button:hover {
   background:#fff;
 }
+.dark-header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: #09212A;
+    margin: 0;
+    animation-name: menu_sticky;
+    animation-duration: 0.70s;
+    animation-timing-function: ease-in-out;
+}
