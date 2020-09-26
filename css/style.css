@@ -1641,3 +1641,6 @@ footer p {
     animation-duration: 0.70s;
     animation-timing-function: ease-in-out;
 }
+.dark-header img{
+	margin-top: -8px;
+}
